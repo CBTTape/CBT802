@@ -1,0 +1,14 @@
+2023-04-03 02:48:16.713027 - Initialized conversion of CBT802
+2023-04-03 02:48:16.804989 - Received CBT.V504.FILE802.PDS from FILE802.XMI 
+2023-04-03 02:48:16.808134 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE802.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:48:16.809301 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE802.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:48:16.810492 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE802.PDS, moved to PDS/$$NOTE2
+2023-04-03 02:48:16.811698 - Found $$NOTE3.txt (text/plain) in CBT.V504.FILE802.PDS, moved to PDS/$$NOTE3
+2023-04-03 02:48:16.812995 - Found $$NOTE4.txt (text/plain) in CBT.V504.FILE802.PDS, moved to PDS/$$NOTE4
+2023-04-03 02:48:16.814057 - Found @FILE802.txt (text/plain) in CBT.V504.FILE802.PDS, moved to PDS/@FILE802
+2023-04-03 02:48:16.814067 - Found DELINKOB.bin containing application/octet-stream, moved to PDS/DELINKOB
+2023-04-03 02:48:16.816377 - Found LINKEDIT.jcl (text/plain) in CBT.V504.FILE802.PDS, moved to PDS/LINKEDIT
+2023-04-03 02:48:16.838756 - Found LOADLIB.xmi (application/xmit) in CBT.V504.FILE802.PDS
+2023-04-03 02:48:16.846381   - Received RECFM=U data, stored XMIT file as CBT802/LOADLIB.xmi
+2023-04-03 02:48:16.874861 - Found SOURCE.xmi (application/xmit) in CBT.V504.FILE802.PDS
+2023-04-03 02:48:16.878935   - Received to CBT802/DELINKC.SOURCE
