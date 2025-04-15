@@ -1,15 +1,15 @@
-2025-04-15 05:44:04.012734 - Received CBT.V508.FILE802.PDS from FILE802.XMI 
-2025-04-15 05:44:04.013847 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:44:04.014383 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$NOTE1
-2025-04-15 05:44:04.014614 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$NOTE2
-2025-04-15 05:44:04.014963 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$NOTE3
-2025-04-15 05:44:04.015153 - Found $$NOTE4.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$NOTE4
-2025-04-15 05:44:04.015499 - Found @FILE802.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/@FILE802
-2025-04-15 05:44:04.017104 - Found DELINKOB.bin (application/octet-stream) in CBT.V508.FILE802.PDS, moved to PDS/DELINKOB
-2025-04-15 05:44:04.017543 - Found LINKEDIT.jcl (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/LINKEDIT
-2025-04-15 05:44:04.018986 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE802.PDS, moved to PDS/LOADLIB.xmi
-2025-04-15 05:44:04.041114 - Received SBGOLOB.DELINKC.LOAD from LOADLIB.xmi 
-2025-04-15 05:44:04.042853 - Found DELINK.bin (application/octet-stream) in SBGOLOB.DELINKC.LOAD, moved to LOADLIB/DELINK
-2025-04-15 05:44:04.043747 - Found SOURCE.xmi (application/xmit) in CBT.V508.FILE802.PDS, moved to PDS/SOURCE.xmi
-2025-04-15 05:44:04.083077 - Received SBGOLOB.DELINKC.SOURCE from SOURCE.xmi 
-2025-04-15 05:44:04.084169 - Found DELINKC.x-c (text/x-c) in SBGOLOB.DELINKC.SOURCE, moved to SOURCE/DELINKC
+2025-04-16 00:22:37.630312 - Received CBT.V508.FILE802.PDS from FILE802.XMI 
+2025-04-16 00:22:37.631575 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$$#DATE
+2025-04-16 00:22:37.631906 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$NOTE1
+2025-04-16 00:22:37.632087 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$NOTE2
+2025-04-16 00:22:37.632388 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$NOTE3
+2025-04-16 00:22:37.632540 - Found $$NOTE4.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/$$NOTE4
+2025-04-16 00:22:37.632586 - Found @FILE802.txt (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/@FILE802
+2025-04-16 00:22:37.633875 - Found DELINKOB.bin (application/octet-stream) in CBT.V508.FILE802.PDS, moved to PDS/DELINKOB
+2025-04-16 00:22:37.634294 - Found LINKEDIT.jcl (text/plain) in CBT.V508.FILE802.PDS, moved to PDS/LINKEDIT
+2025-04-16 00:22:37.635687 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE802.PDS, moved to PDS/LOADLIB.xmi
+2025-04-16 00:22:37.657933 - Received SBGOLOB.DELINKC.LOAD from LOADLIB.xmi 
+2025-04-16 00:22:37.659581 - Found DELINK.bin (application/octet-stream) in SBGOLOB.DELINKC.LOAD, moved to LOADLIB/DELINK
+2025-04-16 00:22:37.660440 - Found SOURCE.xmi (application/xmit) in CBT.V508.FILE802.PDS, moved to PDS/SOURCE.xmi
+2025-04-16 00:22:37.689555 - Received SBGOLOB.DELINKC.SOURCE from SOURCE.xmi 
+2025-04-16 00:22:37.690573 - Found DELINKC.x-c (text/x-c) in SBGOLOB.DELINKC.SOURCE, moved to SOURCE/DELINKC
